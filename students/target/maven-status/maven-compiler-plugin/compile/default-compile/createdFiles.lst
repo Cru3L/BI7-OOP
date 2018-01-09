@@ -1,0 +1,6 @@
+com\Command.class
+com\database\StudentsDB.class
+com\App.class
+com\model\Student.class
+com\database\CoursesDB.class
+com\model\Course.class
