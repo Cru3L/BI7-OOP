@@ -11,7 +11,6 @@ Students are expected to:
 Member list
 =====================================
 
-*Add student list of your group here*
 -Hà Huy Bình - USTHBI7-024
 -Nguyễn Minh Dương -USTHBI7-048
 -Nguyễn Minh Đức - USTHBI7-038
